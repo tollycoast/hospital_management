@@ -1,0 +1,65 @@
+
+
+#top-bar{
+    background-color: #38c172;
+    margin-bottom: 0.5%;
+}
+
+#top-bar span{
+   color: #fff;
+   margin: 10px;
+}
+.container-flex{
+    margin-left:40px;
+    margin-right:40px;
+
+}
+
+.row{
+    padding:15px;
+}
+#remark{
+    width: 100%;
+    background-color: #fff;
+}
+.info_service{
+    background-color: #fff;
+    padding:2%;
+}
+.footer_bottom {
+    background: #292F38;
+    padding: 20px 0;
+    color: #fff;
+}
+.navbar-fixed-top
+{
+    position: fixed static sticky;
+    z-index: 1000;
+}
+
+.xl{
+    width:100%;
+}
+.col-img{
+    float:left;
+    width:60%;
+}
+.login{
+    float:left;
+    width:35%;
+    margin: 20px;
+    background-color: #fff;
+    border-radius:20px;
+    box-shadow: 2px 2px #efefef;
+    padding:30px;
+    align-content: center;
+}
+.responsive {
+    width: 100%;
+    height: auto;
+  }
+.registration{
+      float: right;
+      margin-right: 40px;
+  }
+
